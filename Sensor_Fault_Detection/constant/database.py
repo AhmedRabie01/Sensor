@@ -1,2 +1,2 @@
-DATABASE_NAME = "aps"
-COLLECTION_NAME = "sensor"  
+DATABASE_NAME = "sensor"
+COLLECTION_NAME = "sensor_readings"  
